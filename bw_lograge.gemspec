@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name         = 'bw_lograge'
-  s.version      = '0.0.1'
+  s.version      = '1.0.0'
   s.date         = '2018-05-30'
   s.summary      = "BidWrangler Lograge"
   s.description  = "Configuration and log formaters to produce JSON parseable rails logs"
